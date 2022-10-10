@@ -2,7 +2,7 @@
 
 MIT Web Development Week 7 Project. 
 
-In the Week 7 project, we simulated a PacMan to navigate between page boundaries, while performing the classic eating animation. 
+In the Week 7 project, we simulated a game type application to make a PacMan and navigate between page boundaries. We also allowed functions to duplicate/multiply PacMan, while enabling various speeds of accelteration.
 
 ## How to run:
 
