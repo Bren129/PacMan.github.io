@@ -6,6 +6,11 @@ In the Week 7 project, we simulated a game type application to make a PacMan and
 
 ## How to run:
 
+- Download PacMan files from the folder.
+- Run the HTML file on a compatible browser.
+- Click on "Start Game" button.
+- Click "Add PacMan"
+- After these steps, you can click "Add PacMan" as much as you want, to add additional PacMan to the screen. Clicking faster will change acceleration of individual units. 
 
     
 ## Roadmap for future improvements:
